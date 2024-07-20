@@ -1,0 +1,19 @@
+{
+  "name": "termproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asmiupatel"
+  },
+  "author": "Asmi Patel",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.4"
+  }
+}
